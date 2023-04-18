@@ -225,6 +225,7 @@ body {
     width: 370px;
     padding: 60px 40px;
     background-color: #FF7143;
+    border-radius: 20%;
     --color-plan: rgb(255 255 255 / 75%);
     --color-price: #fff;
     --bg-cta: #9F3919;
