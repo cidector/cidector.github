@@ -92,7 +92,7 @@ body {
 
 /* Hero container */
 
-.hero__container--containe {
+.hero__container {
     max-width: 800px;
     --padding-container: 0;
     display: grid;
