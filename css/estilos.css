@@ -244,6 +244,7 @@ body {
     color: var(--color-price);
 }
 
+
 .price__items{
     margin-top: 35px;
     display: grid;
